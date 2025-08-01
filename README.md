@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate Cybersecurity analyst  
-- 🌱 Currently learning **AI**, **ML**, and **cyber security fundementals**  
+- 🌱 Currently learning **AI**, **ML**, and **Cybersecurity Fundementals**  
 - 👯 Open to collaborating on open-source projects  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/thabo-mavundla-a21b26225)  
 
