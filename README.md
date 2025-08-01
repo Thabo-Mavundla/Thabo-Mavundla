@@ -10,7 +10,7 @@
 - **Languages:** C+, C#, Python, ML & AI, HTML, CSS
 - **Frameworks:** Flask  
 - **Databases:** SQLite  
-- **Tools:** Nmap, Wireshark Git, VS Code
+- **Tools:** Nmap, Wireshark, Git, VS Code
 - **Platforms:** Linux, Windows
 
 ## 📈 GitHub Stats
